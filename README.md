@@ -1,4 +1,5 @@
-Repositório de Projetos DevClub CSS
+Repositório de Projetos DevClub CSS:
+
 Minha Primeira Aplicação Responsiva
 Este repositório contém minha primeira aplicação responsiva, desenvolvida como parte do meu projeto pessoal. A aplicação é um site simples que demonstra minha compreensão inicial de design responsivo e desenvolvimento web front-end.
 
